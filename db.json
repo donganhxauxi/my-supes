@@ -1,0 +1,119 @@
+{
+  "supes": [
+    {
+      "id": 1,
+      "name": "Homelander",
+      "age": 39,
+      "superPower": "Super strength, flight, laser vision",
+      "weakness": "Narcissism and sociopathy",
+      "playedBy": "Antony Starr",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/6lm2pb/article67600645.ece/alternates/LANDSCAPE_1200/Homelander.png"
+    },
+    {
+      "id": 2,
+      "name": "Starlight",
+      "age": 25,
+      "superPower": "Light manipulation",
+      "weakness": "Naive and overly trusting",
+      "playedBy": "Erin Moriarty",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Annie_January_Erin_Moriarty.webp"
+    },
+    {
+      "id": 3,
+      "name": "Queen Maeve",
+      "age": 35,
+      "superPower": "Super strength, durability",
+      "weakness": "Disillusionment and fear",
+      "playedBy": "Dominique McElligott",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/queen-maeve-the-boys-1657279912.jpg?crop=0.440xw:0.662xh;0.466xw,0&resize=1200:*"
+    },
+    {
+      "id": 4,
+      "name": "A-Train",
+      "age": 29,
+      "superPower": "Super speed",
+      "weakness": "Addiction to Compound V",
+      "playedBy": "Jessie T. Usher",
+      "image": "https://www.looper.com/img/gallery/why-a-train-from-the-boys-looks-so-familiar/intro-1599853861.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Deep",
+      "age": 30,
+      "superPower": "Aquatic abilities, communication with sea creatures",
+      "weakness": "Low self-esteem and need for approval",
+      "playedBy": "Chace Crawford",
+      "image": "https://s2.dmcdn.net/v/U06TN1YgEpLEmfjgR/x1080"
+    },
+    {
+      "id": 6,
+      "name": "Black Noir",
+      "age": 33,
+      "superPower": "Super strength, stealth, enhanced senses",
+      "weakness": "Nut allergy",
+      "playedBy": "Nathan Mitchell",
+      "image": "https://assets1.ignimgs.com/2020/10/03/blacknoir-blogroll-1601686425178.jpg?width=1280"
+    },
+    {
+      "id": 7,
+      "name": "Stormfront",
+      "age": 101,
+      "superPower": "Electrokinesis, flight, super strength, regenerative healing factor",
+      "weakness": "Overconfidence, bigotry",
+      "playedBy": "Aya Cash",
+      "image": "https://www.indiewire.com/wp-content/uploads/2020/09/the-boys-season-2-THBY_S2_Unit_204_0338RC_rgb.jpg?w=600&h=337&crop=1"
+    },
+    {
+      "id": 8,
+      "name": "Translucent",
+      "age": 34,
+      "superPower": "Invisibility, invulnerability",
+      "weakness": "Carbon metamaterial",
+      "playedBy": "Alex Hassell",
+      "image": "https://i.ytimg.com/vi/sG9X0in-9X4/maxresdefault.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tek Knight",
+      "age": 35,
+      "superPower": "Advanced technology, combat skills",
+      "weakness": "Mental instability",
+      "playedBy": "Derek Wilson",
+      "image": "https://ew.com/thmb/6zSc6xGpY1L8MQY4nR3n82LFrSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Gen-V-100523-26189d050e2e4e5ab27015a6d3f8904d.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Victoria Neuman",
+      "age": 30,
+      "superPower": "Head explosion",
+      "weakness": "Political ambitions",
+      "playedBy": "Claudia Doumit",
+      "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/07/the-boys-season-3-claudia-doumit-social.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Soldier Boy",
+      "age": 88,
+      "superPower": "Enhanced strength, enhanced durability",
+      "weakness": "PTSD and trauma",
+      "playedBy": "Jensen Ackles",
+      "image": "https://variety.com/wp-content/uploads/2021/06/09EF7C92-CEBD-4470-AAAC-0569717399F9.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Sister Sage",
+      "age": 63,
+      "superPower": "Telekinesis, precognition",
+      "weakness": "Mental instability",
+      "playedBy": "Unknown (upcoming character)",
+      "image": "https://uproxx.com/wp-content/uploads/2023/12/sister-sage-the-boys-feat.jpg?w=710"
+    },
+    {
+      "name": "Dan",
+      "superPower": "Laser eye",
+      "playedBy": "Dan Nguyen",
+      "image": "",
+      "id": 13
+    }
+  ]
+}
